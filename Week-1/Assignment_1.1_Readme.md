@@ -10,7 +10,7 @@ Step 4 ->  Server sends back data in binary format
 Step 5 ->  The response is processed and displayed in user interface by Browser
 Step 6 ->  The browser process data in following parts
 
-# Components of a browser
+# Components of a Browser & their Working
 
 ## Network Layer 
 
