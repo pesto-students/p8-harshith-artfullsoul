@@ -9,6 +9,8 @@ Step 3 ->  IP address is search on World Wide Web & request is sent to the serve
 Step 4 ->  Server sends back data in binary format. <br>
 Step 5 ->  The response is processed and displayed in user interface by Browser. <br>
 Step 6 ->  The browser process data in following parts. <br>
+![alt text](https://github.com/pesto-students/p8-harshith-artfullsoul/blob/master/Week-1/browser.png?raw=true)
+
 
 # Components of a Browser & their Working
 
