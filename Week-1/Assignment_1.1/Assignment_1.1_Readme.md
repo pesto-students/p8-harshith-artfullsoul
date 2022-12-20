@@ -12,7 +12,7 @@ Step 6 ->  The browser process data in following parts. <br>
 <br>
 <br>
 <br>
-![alt text](https://github.com/pesto-students/p8-harshith-artfullsoul/tree/week1/Week-1/Assignment_1.1/browser.png?raw=true)
+![alt text](https://github.com/pesto-students/p8-harshith-artfullsoul/blob/master/Week-1/browser.png?raw=true)
 
 
 # Components of a Browser & their Working
