@@ -108,22 +108,22 @@ function App() {
           <section className=''>
             {musicList.map((data,index) => {
               return(
-                <listcont className={`flx-rw ${index%2 === 0 && "bck-clr-gry"} music-list`} key={index}>
-                  <indilistitem className='flx-1'>
+                <div className={`flx-rw ${index%2 === 0 && "bck-clr-gry"} music-list`} key={index}>
+                  <div className='flx-1'>
                     <p className='mrg-0'>{index+1}.{data.name}</p>
-                  </indilistitem>
-                  <indilistitem className='flx-1'>
+                  </div>
+                  <div className='flx-1'>
                     <p className='mrg-0'>{data.author}</p>
-                  </indilistitem>
-                  <indilistitem className='flx-1'>
+                  </div>
+                  <div className='flx-1'>
                     <p className='mrg-0'>{data.duration}</p>
-                  </indilistitem>
-                  <indilistitem className='flx-1'>
+                  </div>
+                  <div className='flx-1'>
                     <div className='list-lnk-butt'>
                       <p className='mrg-0'>CATTY CLOUD SYNC</p>
                     </div>
-                  </indilistitem>
-                </listcont>
+                  </div>
+                </div>
               )
             })}
           </section>
@@ -133,7 +133,7 @@ function App() {
       </header>
 
       {/* PLAYER-CONTROLS-SECTION */}
-      <footer className='plyr-cntrl-sec flx-rw'>
+      <div className='plyr-cntrl-sec flx-rw'>
         <div className='flx-rw flx-1'>
           <div className='plyr-img-cont'>
             <img src='https://vif1g.csb.app/src/assets/cattyboard.jpg'/>
@@ -161,7 +161,7 @@ function App() {
           </div>
 
         </div>
-      </footer>
+      </div>
 
     </div>
   );
