@@ -53,13 +53,13 @@ function App() {
               <i className="las la-user"></i>
             </div>
             <div className='nav-icns flx-1'>
-              <i className="las la-spotify"></i>
+              <i className="lab la-spotify"></i>
             </div>
             <div className='nav-icns flx-1'>
               <i className="las la-cog"></i>
             </div>
             <div className='nav-icns flx-1'>
-              <i className="las la-soundcloud"></i>
+              <i className="lab la-soundcloud"></i>
             </div>
             
 
@@ -148,7 +148,7 @@ function App() {
             <i className="las la-step-backward clr-white"></i>
           </div>
           <div className='flx-1 plyr-cntrls-indi'>
-            <i className="las la-play clr-white"></i>
+            <i className="las la-pause clr-white"></i>
           </div>
           <div className='flx-1 plyr-cntrls-indi'>
             <i className="las la-step-forward clr-white"></i>
