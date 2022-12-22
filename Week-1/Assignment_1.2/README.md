@@ -5,6 +5,7 @@ Assignment-1.2 for Week-1.
 This Project was a part of Assignment-1.2 for Week-1. Here we were required to clone a image of a player with available resources. 
  
 ## Screenshots
+Below you can find the attached Screenshot of the website.
 <br>
 ![alt text](https://github.com/pesto-students/p8-harshith-artfullsoul/blob/week1/Week-1/Assignment_1.2/screenshot.png?raw=true)
 
