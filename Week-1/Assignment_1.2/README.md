@@ -6,7 +6,7 @@ This Project was a part of Assignment-1.2 for Week-1. Here we were required to c
  
 ## Screenshots
 <br>
-
+![Screenshot of Website](https://github.com/pesto-students/p8-harshith-artfullsoul/blob/week1/Week-1/Assignment_1.2/screenshot.png)
 
 ## Tech/framework used
 
