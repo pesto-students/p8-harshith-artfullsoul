@@ -17,8 +17,5 @@ Below you can find the attached Screenshot of the website.
 - line awesome
 - Google Font(Lato)
 
-## Features
-What makes your project stand out?
-
 ## How to use?
 To use just fork the project to your Local Machine and open index.html file.
