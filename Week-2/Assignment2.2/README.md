@@ -7,7 +7,10 @@ This Project was a part of Assignment-2.2 for Week-2. Here we were required to c
 ## Screenshots/Video
 Below you can find the attached Video of the website.
 <br>
-https://user-images.githubusercontent.com/55733977/209432633-3161ac4e-eec2-400c-af57-75803b12d313.mov
+
+
+https://user-images.githubusercontent.com/55733977/209432824-7df473d5-cc40-4e21-bda7-b77286661a28.mov
+
 
 ## Tech/framework used
 
