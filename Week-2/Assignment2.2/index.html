@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="index.css" />
+        <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+        <title>Document</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap" rel="stylesheet">
+        <link
+    </head>
+
+    <body>
+      <div class="main-cont">
+        <div class="box-cont" onmouseover="func()" onmouseout="func2()">
+          <div class="box-1"></div>
+          <div class="box-2"></div>
+          <div class="box-3"></div>
+          <div class="box-4"></div>
+        </div>
+        <div class="txt-cont">
+          <p>Hi !</p>
+        </div>
+      </div>
+
+      <script>
+        var box1 = document.querySelector(".box-1");
+        var box2 = document.querySelector(".box-2");
+        var box3 = document.querySelector(".box-3");
+        var box4 = document.querySelector(".box-4");
+        function func() {
+          box1.className= "box-1 box-1-anim-out "
+          box2.className= "box-2 box-2-anim-out "
+          box3.className= "box-3 box-3-anim-out "
+          box4.className= "box-4 box-4-anim-out "
+        }
+        function func2() {
+          box1.className= "box-1 box-1-anim-in"
+          box2.className= "box-2 box-2-anim-in"
+          box3.className= "box-3 box-3-anim-in"
+          box4.className= "box-4 box-4-anim-in"
+        }
+      </script>
+      <script src="src/index.js"></script>
+    </body>
+</html>
