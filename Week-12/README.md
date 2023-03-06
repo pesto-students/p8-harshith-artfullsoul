@@ -11,7 +11,7 @@ This Project was a part of Assignment for Week-12. Here we were required to make
 The Code for Assignment-12can be found in "to-do-list folder".
 
 #### Screenshot
-![alt text](?raw=true)
+![alt text](https://github.com/pesto-students/p8-harshith-artfullsoul/blob/week12/Week-12/ScreenShot/Assignment12-2.png?raw=true)
 
 ## How to use the code
 Just clone the project to local navigate to to-do-list folder under Week-12 and run commands as mentioned in README.md of to-do-list folder.
