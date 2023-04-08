@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+}
+.App {
+  font-family: sans-serif;
+}
+.ovr-flw {
+  overflow: hidden;
+}
+.wid-70 {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.clr-purple {
+  color: #301e67;
+}
+.clr-aqua {
+  color: #2cd0cf;
+}
+.clr-black {
+  color: #03001c;
+}
+.clr-blu {
+  color: #5b8fb9;
+}
+.clr-white {
+  color: white;
+}
+.fnt-wt-400 {
+  font-weight: 400;
+}
+.fnt-wt-200 {
+  font-weight: 200;
+}
+.fnt-wt-700 {
+  font-weight: 700;
+}
+.fnt-wt-bld {
+  font-weight: bold;
+}
+.flx-dir-rw {
+  display: flex;
+  flex-direction: row;
+}
+.flx-dir-cl {
+  display: flex;
+  flex-direction: column;
+}
+.flx-1 {
+  display: flex;
+  flex: 1;
+}
+.mrg-0 {
+  margin: 0;
+}
+.fnt-size-1 {
+  font-size: 3vw;
+}
+
+.fnt-size-2 {
+  font-size: 1.8vw;
+}
+.fnt-size-3 {
+  font-size: 1.3vw;
+}
+.nav {
+  padding: 1.5vh 0vw;
+}
+.nav-cont {
+  align-items: center;
+}
+.nav-link {
+  margin: 0 1vw;
+}
+.bck-clr-gry {
+  background-color: #f0f1f4;
+}
+.bck-clr-white {
+  background-color: white;
+}
+.bck-clr-black {
+  background-color: black;
+}
+.bck-clr-blu {
+  background-color: #2cd0cf;
+}
+.mid-sec {
+  min-height: 70vh;
+  padding: 2.5vh 0vw;
+}
+.butt-skl {
+  padding: 1vh 0.5vw;
+}
+.bdr-rad-10 {
+  border-radius: 10px;
+}
+.mid-sec-upp-right-cont > img {
+  width: 100%;
+  object-fit: contain;
+  height: 100%;
+}
+.mid-sec-low-cont {
+  margin-top: 5vh;
+}
+.url-input-cont {
+  box-shadow: 0px 0px 5px #301e67;
+  padding: 2.5vh 5vw;
+  border-radius: 10px;
+}
+.url-input-cont > input {
+  width: 80%;
+  margin-right: 2.5vw;
+}
+.url-output-cont {
+  margin: 2.5vh 0vw;
+  box-shadow: 0px 0px 5px #301e67;
+  padding: 2.5vh 5vw;
+  border-radius: 10px;
+}
+.indi-output-cont {
+  display: flex;
+  align-items: center;
+  padding: 0.5vh 1vw;
+  border: 1px dashed grey;
+  margin: 1vh 0vw;
+}
+.footer {
+  padding: 5vh 0vw;
+}
+.marg-vrt-2 {
+  margin: 0 2.5vw;
+}
+.footer-mid-links {
+  margin: 1vh 0vw;
+}
+.footer-mid-links-head {
+  margin-bottom: 1vh;
+}
+.loader-modal {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
