@@ -19,7 +19,7 @@ The Code for Assignment-14 can be found on link:- https://codesandbox.io/s/plain
 The Code for Assignment-14 can be found on link:- https://codesandbox.io/s/redux-exercise-2-87bx4q?file=/src/App.js
 
 ## How to use the code
-Just clone the project to local navigate to Shortly folder under Week-13 and run commands as mentioned in README.md of Shortly folder.
+Just open the respective links.
 
 
 ## Tech/framework used
